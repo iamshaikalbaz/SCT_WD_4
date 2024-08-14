@@ -22,7 +22,7 @@ This project is a basic to-do web application created as Task-04 for my internsh
 - The design and functionality were inspired by modern task management applications.
 - Guidance and support from the SkillCraft Technology development team.
 
-## View My Website Here: [Demo](https://iamshaikalbaz.github.io/SCT_WD_4/)
+## View My Website Here: [Visit here](https://iamshaikalbaz.github.io/SCT_WD_4/)
 
 **Author**: Shaik Albaz
 **Github**: [Shaik Albaz](https://github.com/iamshaikalbaz)
